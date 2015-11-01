@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#5db596</color>
+
+    <color name="edt_pressed">#99CBFF</color>
+    <color name="edt_focused">#CEF7F6</color>
+    <color name="edt_default">#000000</color>
+    <color name="primary3">#5db596</color>
+    <color name="primary_dark3">#4a9279</color>
+    <color name="primary_light3">#ECF0F1</color>
+    <color name="accent3">#E74C3C</color>
+    <color name="primary_text3">#212121</color>
+    <color name="secondary_text3">#727272</color>
+    <color name="icons3">#FFFFFF</color>
+    <color name="divider3">#B6B6B6</color>
+</resources>
